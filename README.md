@@ -22,7 +22,7 @@ Build and Execute MySQL and PostgreSQL to Data Catalog Connectors | GSP814
 ---
 
 ### 👉 Please follow video instructions to get complete points  
-📺 [Watch Video](https://youtu.be/MUtG_4S_Wv4?feature=shared))
+📺 [Watch Video](https://youtu.be/MUtG_4S_Wv4?feature=shared)
 
 ---
 
